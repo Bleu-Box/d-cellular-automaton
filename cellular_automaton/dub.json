@@ -1,0 +1,12 @@
+{
+	"name": "cellular_automaton",
+	"authors": [
+		"Bleu-Box"
+	],
+	"dependencies": {
+		"derelict-sdl2": "~>2.1.4"
+	},
+	"description": "A cellular automaton visualized with SDL2.",
+	"copyright": "none",
+	"license": "none"
+}
